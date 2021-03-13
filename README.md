@@ -26,7 +26,7 @@ indexedDB, mongoose, express, html, css, js
 ## Screenshot
 
 
-![picture 2](img/SS.png)  
+![picture 1](./img/SS.png)  
 
 
 ## License
