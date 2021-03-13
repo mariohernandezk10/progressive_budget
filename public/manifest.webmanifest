@@ -1,0 +1,15 @@
+{
+    "short_name": "budget",
+    "name": "budget-app",
+    "icons": [{
+            "src": "/icons/icon-169x169.png",
+            "sizes": "169x169",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-430x430.png",
+            "sizes": "430x430",
+            "type": "image/png"
+        }
+    ]
+}
